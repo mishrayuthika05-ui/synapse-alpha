@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "neural-network",
+      "description": "Abstract neural network visual representing knowledge connections",
+      "imageUrl": "https://picsum.photos/seed/synapse-1/800/600",
+      "imageHint": "abstract network"
+    },
+    {
+      "id": "quantum-physics",
+      "description": "Visual for advanced physics course",
+      "imageUrl": "https://picsum.photos/seed/physics/400/300",
+      "imageHint": "quantum light"
+    },
+    {
+      "id": "biotech-research",
+      "description": "Microscopic cellular view for biology module",
+      "imageUrl": "https://picsum.photos/seed/bio/400/300",
+      "imageHint": "cellular structure"
+    }
+  ]
 }
