@@ -1,6 +1,6 @@
-# EduLearn
+#synapse alpha
 
-EduLearn is a simple and modern educational web application designed to make learning more accessible and engaging. It provides an interactive platform where users can explore educational content through a clean and user-friendly interface.
+synapse alpha is a simple and modern educational web application designed to make learning more accessible and engaging. It provides an interactive platform where users can explore educational content through a clean and user-friendly interface.
 
 ## Features
 
